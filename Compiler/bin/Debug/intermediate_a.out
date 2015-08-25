@@ -1,0 +1,7 @@
+ /t:module   /out:./Debug/H.dll  O.cs  
+ /t:module   /out:./Debug/G.dll  M.cs  N.cs  
+ /t:module   /out:./Debug/E.dll  L.cs  
+ /t:module   /out:./Debug/C.dll  I.cs  J.cs  K.cs  
+ /t:module   /out:./Debug/B.dll  /addmodule:./Debug/G.dll  /addmodule:./Debug/H.dll  
+ /t:module   /out:./Debug/A.dll  /addmodule:./Debug/E.dll  D.cs  F.cs  
+ /t:exe   /out:./Debug/Program.exe /addmodule:./Debug/A.dll  /addmodule:./Debug/B.dll  /addmodule:./Debug/C.dll  

@@ -1,0 +1,9 @@
+BEGIN
+Program.exe:A.dll,B.dll,C.dll
+A.dll:D.cs,E.dll,F.cs
+B.dll:G.dll,H.dll
+C.dll:I.cs,J.cs,K.cs
+E.dll:L.cs
+G.dll:M.cs,N.cs
+H.dll:O.cs
+END

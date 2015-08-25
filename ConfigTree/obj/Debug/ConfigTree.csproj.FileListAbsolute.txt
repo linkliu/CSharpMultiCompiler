@@ -1,0 +1,14 @@
+D:\DevelopTools\Projects\C#\CSharpMultifileCompiler\ConfigTree\bin\Debug\ConfigTree.dll
+D:\DevelopTools\Projects\C#\CSharpMultifileCompiler\ConfigTree\bin\Debug\ConfigTree.pdb
+D:\DevelopTools\Projects\C#\CSharpMultifileCompiler\ConfigTree\obj\Debug\ConfigTree.csprojResolveAssemblyReference.cache
+D:\DevelopTools\Projects\C#\CSharpMultifileCompiler\ConfigTree\obj\Debug\ConfigTree.dll
+D:\DevelopTools\Projects\C#\CSharpMultifileCompiler\ConfigTree\obj\Debug\ConfigTree.pdb
+D:\DevelopTools\Projects\C#\CSharpMultifileCompiler\ConfigTree\bin\Debug\Config.dll
+D:\DevelopTools\Projects\C#\CSharpMultifileCompiler\ConfigTree\bin\Debug\Config.pdb
+D:\DevelopTools\Projects\U3D\C#\CSharpMultifileCompiler\ConfigTree\bin\Debug\ConfigTree.dll
+D:\DevelopTools\Projects\U3D\C#\CSharpMultifileCompiler\ConfigTree\bin\Debug\ConfigTree.pdb
+D:\DevelopTools\Projects\U3D\C#\CSharpMultifileCompiler\ConfigTree\bin\Debug\Config.dll
+D:\DevelopTools\Projects\U3D\C#\CSharpMultifileCompiler\ConfigTree\bin\Debug\Config.pdb
+D:\DevelopTools\Projects\U3D\C#\CSharpMultifileCompiler\ConfigTree\obj\Debug\ConfigTree.csprojResolveAssemblyReference.cache
+D:\DevelopTools\Projects\U3D\C#\CSharpMultifileCompiler\ConfigTree\obj\Debug\ConfigTree.dll
+D:\DevelopTools\Projects\U3D\C#\CSharpMultifileCompiler\ConfigTree\obj\Debug\ConfigTree.pdb

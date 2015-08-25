@@ -1,0 +1,10 @@
+D:\DevelopTools\Projects\C#\CSharpMultifileCompiler\Config\bin\Debug\Config.dll
+D:\DevelopTools\Projects\C#\CSharpMultifileCompiler\Config\bin\Debug\Config.pdb
+D:\DevelopTools\Projects\C#\CSharpMultifileCompiler\Config\obj\Debug\Config.csprojResolveAssemblyReference.cache
+D:\DevelopTools\Projects\C#\CSharpMultifileCompiler\Config\obj\Debug\Config.dll
+D:\DevelopTools\Projects\C#\CSharpMultifileCompiler\Config\obj\Debug\Config.pdb
+D:\DevelopTools\Projects\U3D\C#\CSharpMultifileCompiler\Config\bin\Debug\Config.dll
+D:\DevelopTools\Projects\U3D\C#\CSharpMultifileCompiler\Config\bin\Debug\Config.pdb
+D:\DevelopTools\Projects\U3D\C#\CSharpMultifileCompiler\Config\obj\Debug\Config.csprojResolveAssemblyReference.cache
+D:\DevelopTools\Projects\U3D\C#\CSharpMultifileCompiler\Config\obj\Debug\Config.dll
+D:\DevelopTools\Projects\U3D\C#\CSharpMultifileCompiler\Config\obj\Debug\Config.pdb
