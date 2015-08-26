@@ -36,7 +36,9 @@ namespace MultiCompile
             {
                 pGenerator.StartInfo.Arguments = perarg;
                 pGenerator.Start();//generate the component of final program
-                
+
+                string outputInfo = pGenerator.StandardOutput.ReadToEnd();//get cmd's output information 
+                Console.Write(outputInfo);
                 
             }
 
@@ -50,8 +52,8 @@ namespace MultiCompile
         protected void InitGenerator()
         {
             pGenerator.StartInfo.FileName = "csc.exe";
-
-          
+            pGenerator.StartInfo.RedirectStandardOutput = true;
+            pGenerator.StartInfo.UseShellExecute = false;   
 
         }
 
